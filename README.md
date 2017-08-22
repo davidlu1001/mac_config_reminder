@@ -13,5 +13,5 @@ Zsh + [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) with [antigen](http
 More info could be found in [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
 
 # Vim config file
-[spf13-vim](https://github.com/spf13/spf13-vim)
-[k-vim](https://github.com/wklken/k-vim)
+1. [spf13-vim](https://github.com/spf13/spf13-vim)
+2. [k-vim](https://github.com/wklken/k-vim)
