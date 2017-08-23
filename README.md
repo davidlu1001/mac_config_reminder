@@ -15,3 +15,9 @@ More info could be found in [awesome-zsh-plugins](https://github.com/unixorn/awe
 ## Vim config file
 1. [spf13-vim](https://github.com/spf13/spf13-vim)
 2. [k-vim](https://github.com/wklken/k-vim)
+
+## Tmux config file
+[.tmux.conf](https://github.com/gpakosz/.tmux)
+[tmuxinator](https://github.com/tmuxinator/tmuxinator)
+[tpm](https://github.com/tmux-plugins/tpm)
+[tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect)
