@@ -17,7 +17,7 @@ More info could be found in [awesome-zsh-plugins](https://github.com/unixorn/awe
 2. [k-vim](https://github.com/wklken/k-vim)
 
 ## Tmux config file
-[.tmux.conf](https://github.com/gpakosz/.tmux)
-[tmuxinator](https://github.com/tmuxinator/tmuxinator)
-[tpm](https://github.com/tmux-plugins/tpm)
-[tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect)
+1. [.tmux.conf](https://github.com/gpakosz/.tmux)
+2. [tmuxinator](https://github.com/tmuxinator/tmuxinator)
+3. [tpm](https://github.com/tmux-plugins/tpm)
+4. [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect)
